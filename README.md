@@ -4,7 +4,7 @@ Sensible apps for humans
 
 ### Apps
 
-![## Savings - Future Finance](https://github.com/curiousbitz/curiousbitz.github.io/blob/master/Images/Savings.png) [Savings](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
+![Savings - Future Finance](https://github.com/curiousbitz/curiousbitz.github.io/blob/master/Images/Savings.png) [Savings](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
 
 Predict future cash based on current financials
 
