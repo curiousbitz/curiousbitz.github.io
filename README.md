@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Curious Bitz
 
-You can use the [editor on GitHub](https://github.com/curiousbitz/curiousbitz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sensible apps for humans
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Apps
 
-### Markdown
+![Savings](https://helpsyhealth.com/front/images/logo.png) [Savings](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
+Predict future cash based on current financials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Helpsy](https://helpsyhealth.com/front/images/logo.png) [Helpsy Health](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
+Live life to the fullest
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
+Curious Bitz is the playground of [Deepu](https://www.linkedin.com/in/deepumukundan/) and [Lekshmi](https://www.linkedin.com/in/lekshmiraveendranath/). We make iOS apps that help users 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/curiousbitz/curiousbitz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Email** [curiousbitz AT gmail DOT com] (mailto:curiousbitz@gmail.com)
+[**Github**] [curiousbitz] (https://github.com/curiousbitz)
