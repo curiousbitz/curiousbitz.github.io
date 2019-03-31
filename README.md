@@ -5,9 +5,11 @@ Sensible apps for humans
 ### Apps
 
 ![Savings](https://helpsyhealth.com/front/images/logo.png) [Savings](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
+
 Predict future cash based on current financials
 
 ![Helpsy](https://helpsyhealth.com/front/images/logo.png) [Helpsy Health](https://itunes.apple.com/us/app/helpsy/id1194352663?mt=8)
+
 Live life to the fullest
 
 ### Contact
