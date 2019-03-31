@@ -12,7 +12,7 @@ Live life to the fullest
 
 ### Contact
 
-Curious Bitz is the playground of [Deepu](https://www.linkedin.com/in/deepumukundan/) and [Lekshmi](https://www.linkedin.com/in/lekshmiraveendranath/). We make iOS apps that help users 
+Curious Bitz is the playground of [Deepu](https://www.linkedin.com/in/deepumukundan/) and [Lekshmi](https://www.linkedin.com/in/lekshmiraveendranath/). We make sensible iOS apps
 
-**Email** [curiousbitz AT gmail DOT com] (mailto:curiousbitz@gmail.com)
-[**Github**] [curiousbitz] (https://github.com/curiousbitz)
+**Email** [curiousbitz AT gmail DOT com](mailto:curiousbitz@gmail.com)
+[**Github**] [curiousbitz](https://github.com/curiousbitz)
